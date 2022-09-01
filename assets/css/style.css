@@ -42,14 +42,14 @@ h3 {
 }
 
 .col-4 {
-    width: calc(100% /3 - 36px);
+    width: calc((100% /3) - 20px);
     height: 100%;
     float: left;
     background-color: black;
     box-shadow: 0 0 10px;
     margin-bottom: 40px;
-    margin-left:  6px; 
-    margin-right:  6px; 
+    margin-left:  10px; 
+    margin-right:  10px; 
 
       
 }
